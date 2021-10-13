@@ -475,6 +475,8 @@
 
 * 2021-ECML - Estimating the Electrical Power Output of Industrial Devices with End-to-End Time-Series Classification in the Presence of Label Noise [[Paper]](https://arxiv.org/pdf/2105.00349.pdf) [[Code]](https://github.com/Castel44/SREA)
 
+* 2021-ICCV - Learning with Noisy Labels via Sparse Regularization [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Learning_With_Noisy_Labels_via_Sparse_Regularization_ICCV_2021_paper.pdf) [[code]](https://github.com/hitcszx/lnl_sr)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
